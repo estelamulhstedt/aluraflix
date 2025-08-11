@@ -7,13 +7,13 @@ font-family: "Bitcount Grid Double", system-ui;
 }
 
 header {
-border-bottom: solid 2px rgb(131, 30, 52);
+border-bottom: solid 2px rgb(255, 0, 0);
 padding: 20px;
 font-size: 32px;
-color: rgb(15, 15, 15);
+color: rgb(0, 0, 0);
 }
 section {
-    background: rgb(230, 2, 2);
+    background: rgb(155, 14, 14);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
